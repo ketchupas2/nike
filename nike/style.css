@@ -1,0 +1,71 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin: 0 AUTO;
+}
+
+.pas{
+    margin: 0 20px;
+}
+
+.pavadinimass{
+    display: flex ;
+    justify-content: space-between;
+    padding: 20px;
+    float: left;
+    margin-bottom: 20px;
+    flex-direction: row;
+    gap: 0.5rem;
+    font-family: 'arial';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav > div {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.nav{
+    margin: 0 200px;
+}
+
+.just{
+    font-family: 'Arial';
+    font-style: normal;
+    font-size: 56px;
+    text-align: center;
+    
+    
+}
+
+
+
+.para{
+font-family: 'arial';
+font-style: normal;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #959799;
+}
+
+
+.groups{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+footer{
+    background-color: black;
+}
